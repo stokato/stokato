@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Pavel
 
-I'm Pavel Demyanov, a passionate learner and developer currently studying at @SENATOROVAI. I love diving into new technologies and contributing to exciting projects!
+I'm Pavel Demyanov, a passionate learner and developer currently studying at <a href="https://github.com/SENATOROVAI" target="_blank" rel="noreferrer" style="text-decoration: none;">@SENATOROVAI</a>. I love diving into new technologies and contributing to exciting projects!
 
 ## About Me
 
