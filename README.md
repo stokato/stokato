@@ -4,7 +4,7 @@ I'm Pavel Demyanov, a passionate learner and developer currently studying at @SE
 
 ## About Me
 
-I am currently a student at @SENATOROVAI, where I am honing my skills in software development. 
+I am currently a student at <a href="https://www.github.com/stokato" target="_blank" rel="noreferrer" style="text-decoration: none;">@SENATOROVAI</a>, where I am honing my skills in software development. 
 
 ## Connect with Me
 
