@@ -10,11 +10,11 @@ I am currently a student at @SENATOROVAI, where I am honing my skills in softwar
 
 <div>
 
-<a href="https://www.github.com/stokato" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" style="margin: 0 15px;" />
+<a href="https://www.github.com/stokato" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" title="GitHub" style="margin-right: 10px;" />
 </a>
-<a href="https://www.kaggle.com/paveldemyanovstokato" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" width="32" height="32" alt="Kaggle" title="Kaggle" style="margin: 0 15px;" />
+<a href="https://www.kaggle.com/paveldemyanovstokato" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" width="48" height="48" alt="Kaggle" title="Kaggle" style="margin-right: 10px;" />
 </a>
 
 </div>
