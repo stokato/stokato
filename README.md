@@ -15,7 +15,7 @@ I am currently a student at <a href="https://github.com/SENATOROVAI" target="_bl
 &nbsp;&nbsp;
 <a href="https://www.kaggle.com/paveldemyanovstokato" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" width="64" height="64" alt="Kaggle" title="Kaggle" /></a>
 &nbsp;&nbsp;
-<a href="https://ods.ai/users/pd6bb93add001" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://ods.ai/ods/logo.svg" width="64" height="64" alt="Kaggle" title="Kaggle" /></a>
+<a href="https://ods.ai/users/pd6bb93add001" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://ods.ai/ods/logo.svg" width="86" height="86" alt="Kaggle" title="Kaggle" /></a>
 </div>
 
 </div>
