@@ -8,7 +8,7 @@ I am currently a student at @SENATOROVAI, where I am honing my skills in softwar
 
 ## Connect with Me
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex;align-items: center;gap: 16px;">
 
 <div style="display: flex; align-items: center; justify-content: center;">
 <a href="https://www.github.com/stokato" target="_blank" rel="noreferrer" style="text-decoration: none;">
