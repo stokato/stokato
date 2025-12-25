@@ -11,13 +11,10 @@ I am currently a student at @SENATOROVAI, where I am honing my skills in softwar
 <div align="center">
 
 <a href="https://www.github.com/stokato" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" style="margin: 0 10px;" />
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.kaggle.com/paveldemyanovstokato" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" width="32" height="32" alt="Kaggle" title="Kaggle" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" width="32" height="32" alt="Kaggle" title="Kaggle" style="margin: 0 10px;" />
 </a>
 
 </div>
