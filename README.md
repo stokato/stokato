@@ -16,7 +16,7 @@ I am currently a student at @SENATOROVAI, where I am honing my skills in softwar
 </a>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="float: left; display: flex; align-items: center; justify-content: center;">
 <a href="https://www.kaggle.com/paveldemyanovstokato" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" width="64" height="64" alt="Kaggle" title="Kaggle" />
 </a>
