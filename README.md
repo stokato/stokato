@@ -12,7 +12,7 @@ I am currently a student at @SENATOROVAI, where I am honing my skills in softwar
 
 <div style="display: flex; align-items: center; justify-content: center; width: 64px; height: 64px; background-color: #000; border-radius: 50%;">
 <a href="https://www.github.com/stokato" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" title="GitHub" />
 </a>
 </div>
 
