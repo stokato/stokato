@@ -14,7 +14,7 @@ I am currently a student at @SENATOROVAI, where I am honing my skills in softwar
 <a href="https://www.github.com/stokato" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" title="GitHub" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/paveldemyanovstokato" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" width="64" height="64" alt="Kaggle" title="Kaggle" />
 </a>
